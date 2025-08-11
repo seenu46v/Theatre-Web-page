@@ -1,2 +1,2 @@
 # Theatre-Web-page
-using HTML, CSS, JavaScript
+using HTML, CSS, Bootstrap, JavaScript
