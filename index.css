@@ -19,6 +19,9 @@
 .card-title{
   color: #9929EA;
 }
+.ganesh-cinemas{
+  font-family: "Outfit", sans-serif;
+}
 
 .btn-custom {
   background-color: #FAEB92;
@@ -44,4 +47,5 @@
   justify-content: center;
 
 }
+
 
