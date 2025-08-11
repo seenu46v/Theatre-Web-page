@@ -1,0 +1,44 @@
+.navbar-violet{
+  background-color: #8A2BE2 !important;
+}
+
+
+.navbar .nav-link{
+  color: #FAEB92 !important;
+}
+
+.footer{
+  text-align: center;
+}
+
+.carousel-item{
+  background-color: #2C0E5A !important;
+}
+
+.card-title{
+  color: #9929EA;
+}
+
+.btn-custom {
+  background-color: #FAEB92;
+  color: #000000;
+  font-weight: 600;
+  border: none;
+}
+
+.btn-custom:hover,
+.btn-custom:focus,
+.btn-custom:active {
+  background-color: #FAEB92 !important;
+  color: #000000 !important;
+  box-shadow: none !important; /* Remove focus shadow if you want */
+}
+
+
+.each-card{
+  background-color:black;
+}
+
+.video{
+  justify-content: center;
+}
