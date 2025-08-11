@@ -9,6 +9,7 @@
 
 .footer{
   text-align: center;
+  color: #9929EA;
 }
 
 .carousel-item{
@@ -41,4 +42,6 @@
 
 .video{
   justify-content: center;
+
 }
+
